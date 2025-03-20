@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "googleapis": "^146.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "@vitejs/plugin-vue": "^5.2.1",
+    "vite": "^6.2.1"
+  }
+}
